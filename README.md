@@ -11,3 +11,5 @@ You will probably need to create your own fine-grained personal access token, th
 `git push --set-upstream origin main`
 
 Git has many commands. Does anyone use them all?
+
+If "git add" stages a file or files why is the command not called "git stage"?
